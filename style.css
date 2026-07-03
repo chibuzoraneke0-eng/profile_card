@@ -1,0 +1,17 @@
+CSS
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: white;
+}
+
+.card{
+    width: 300px;
+    background-color: pink;
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+    
+}
